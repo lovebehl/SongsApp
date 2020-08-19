@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/jassbehl/Downloads/react-native-boilerplate-master/ios/Pods/Folly/folly/lang/ColdClass.cpp \
+  /Users/jassbehl/Downloads/react-native-boilerplate-master/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/jassbehl/Downloads/react-native-boilerplate-master/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/jassbehl/Downloads/react-native-boilerplate-master/ios/Pods/Folly/folly/CppAttributes.h

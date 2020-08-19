@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5CF07798-9E9F-4895-B44A-B4B41BF74708</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CF07798-9E9F-4895-B44A-B4B41BF74708.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Boilerplate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Boilerplate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Boilerplate with scheme Boilerplate and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>619076896.89823699</real>
+			<key>timeStoppedRecording</key>
+			<real>619076900.611413</real>
+			<key>title</key>
+			<string>Building workspace Boilerplate with scheme Boilerplate and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5CF07798-9E9F-4895-B44A-B4B41BF74708</string>
+		</dict>
+		<key>6460BB49-34F9-4B04-A028-8CC973124ED1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6460BB49-34F9-4B04-A028-8CC973124ED1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Boilerplate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Boilerplate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Boilerplate with scheme Boilerplate and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>619121221.80747199</real>
+			<key>timeStoppedRecording</key>
+			<real>619121224.06684005</real>
+			<key>title</key>
+			<string>Building workspace Boilerplate with scheme Boilerplate and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6460BB49-34F9-4B04-A028-8CC973124ED1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
